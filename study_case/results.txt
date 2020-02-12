@@ -1,0 +1,39 @@
+The intercept of linear regression is: 0.3453
+
+The coefficients of each characteristic are:
+chocolate : 0.1975
+fruity : 0.0942
+caramel : 0.0222
+peanutyalmondy : 0.1007
+nougat : 0.0080
+crispedricewafer : 0.0892
+hard : -0.0617
+bar : 0.0044
+pluribus : -0.0085
+sugarpercent : 0.0909
+pricepercent : -0.0593
+
+The R^2 coefficient of determination is: 0.5402
+
+Accuracy of dummy classifier is: 0.5412
+Confusion matrix:
+[[46  0]
+ [39  0]]
+
+Accuracy of svm classifier is: 0.7059
+Confusion matrix:
+[[37  9]
+ [16 23]]
+
+Accuracy of rf classifier is: 0.7059
+Confusion matrix:
+[[36 10]
+ [15 24]]
+
+Accuracy of LogRe classifier is: 0.7412
+Confusion matrix:
+[[36 10]
+ [12 27]]
+
+Based on the correlogram and importance ratio, the recommendation would be:
+cookie-based sweets with chocolate ingredient instead of gummies
