@@ -29,7 +29,7 @@ if __name__ == "__main__":
     ##################################################################################################
     #------------------------------------ Define variables ------------------------------------------#
     ##################################################################################################
-    root_path = "/Users/shenrongrong/PycharmProjects/study_case/"
+    root_path = "/Users/shenrongrong/git_project/study_case/"
     data_path = root_path + "candy_data.csv"                                           # path where dataset is stored
     corr_path = root_path + "visualisation/correlation.png"                            # path where to store correlation png
     distribution_path = root_path + "visualisation/data_distribution.html"             # path where to store data distribution

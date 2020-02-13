@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="505c0fc7-7f9f-4f98-9a50-f3fecb6fe791" name="Default Changelist" comment="" />
+    <list default="true" id="505c0fc7-7f9f-4f98-9a50-f3fecb6fe791" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/visualisation/characteristics_importance.html" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/characteristics_importance.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/visualisation/data_distribution.html" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/data_distribution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/visualisation/ground_truth_histogram.html" beforeDir="false" afterPath="$PROJECT_DIR$/visualisation/ground_truth_histogram.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1XRyKW1mYu9dnXWXDWsF4Lkug7O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -101,6 +113,7 @@
       <workItem from="1581437711756" duration="24065000" />
       <workItem from="1581502681781" duration="670000" />
       <workItem from="1581503624331" duration="1010000" />
+      <workItem from="1581576262205" duration="466000" />
     </task>
     <servers />
   </component>
@@ -164,20 +177,20 @@
     <state width="1358" height="245" key="GridCell.Tab.1.right/0.23.1440.817@0.23.1440.817" timestamp="1581244663216" />
     <state width="1358" height="246" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1581495735354" />
     <state width="1358" height="246" key="GridCell.Tab.1.right/0.23.1440.823@0.23.1440.823" timestamp="1581502629143" />
-    <state x="229" y="69" key="SettingsEditor" timestamp="1581502618373">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state x="229" y="69" key="SettingsEditor" timestamp="1581576278039">
+      <screen x="0" y="23" width="1440" height="815" />
     </state>
-    <state x="229" y="69" key="SettingsEditor/0.23.1440.815@0.23.1440.815" timestamp="1581023331294" />
+    <state x="229" y="69" key="SettingsEditor/0.23.1440.815@0.23.1440.815" timestamp="1581576278039" />
     <state x="229" y="69" key="SettingsEditor/0.23.1440.817@0.23.1440.817" timestamp="1581071429084" />
     <state x="229" y="69" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1581502618373" />
     <state width="700" height="388" key="XDebugger.FullValuePopup" timestamp="1581089710231">
       <screen x="0" y="23" width="1440" height="817" />
     </state>
     <state width="700" height="388" key="XDebugger.FullValuePopup/0.23.1440.817@0.23.1440.817" timestamp="1581089710231" />
-    <state x="399" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1581503624610">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state x="399" y="263" key="com.intellij.ide.util.TipDialog" timestamp="1581576261317">
+      <screen x="0" y="23" width="1440" height="815" />
     </state>
-    <state x="399" y="263" key="com.intellij.ide.util.TipDialog/0.23.1440.815@0.23.1440.815" timestamp="1581023169561" />
+    <state x="399" y="263" key="com.intellij.ide.util.TipDialog/0.23.1440.815@0.23.1440.815" timestamp="1581576261317" />
     <state x="399" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.817@0.23.1440.817" timestamp="1581281189441" />
     <state x="399" y="265" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1581437718407" />
     <state x="399" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1581503624610" />
@@ -206,6 +219,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/study_case$pre_analysis.coverage" NAME="pre_analysis Coverage Results" MODIFIED="1581242977165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/study_case$main_analysis.coverage" NAME="main_analysis Coverage Results" MODIFIED="1581502914943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/study_case$main_analysis.coverage" NAME="main_analysis Coverage Results" MODIFIED="1581576325826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
